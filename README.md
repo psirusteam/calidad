@@ -8,7 +8,7 @@ encuestas de hogares.
 
 El presente tutorial muestra el uso básico del paquete. Se incluye las
 principales funciones para calcular insumos y se describe la manera en
-la que la evaluación de calidad debe ser realizada.
+la que la evaluación de calidad debe ser realizada..
 
 ## Edición de los datos
 
